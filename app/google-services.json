@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815085082614",
+    "project_id": "musicplayer-e6843",
+    "storage_bucket": "musicplayer-e6843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815085082614:android:2943f28a29d14f180f19d7",
+        "android_client_info": {
+          "package_name": "com.example.hearit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815085082614-4rdugpcqm7iaig9bp8seur42autlvla7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfCA0B6JmfHJR1PoyzCI2Vs0r4d4d-ub8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815085082614-4rdugpcqm7iaig9bp8seur42autlvla7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
